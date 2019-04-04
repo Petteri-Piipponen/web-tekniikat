@@ -45,4 +45,11 @@ p.copyright_notice {
     color: azure;
     background-color: gray;
 
-    }
+}
+p::first-letter {
+    font-size:8em;
+}
+
+p::first-line {
+    font-weight: bold;
+}
