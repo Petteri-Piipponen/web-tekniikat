@@ -1,0 +1,12 @@
+body{
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+    background-color: dimgrey;
+    color: floralwhite;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 600px;
+    padding-top: 0px;
+}
+fieldset{
+    background-color: #4d4d4d;
+}
